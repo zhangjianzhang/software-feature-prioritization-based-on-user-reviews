@@ -12,8 +12,8 @@
 
 ### Dataset
 
-- For training the LDA-based feature extraction model, we used all reviews of the [accounting software products](https://www.softwareadvice.com/accounting/).
-- For the illustrative example, we use all the reviews of [Quickbooks](https://www.softwareadvice.com/accounting/qb-enterprise-acctg-profile/), which is one of the most popular accounting software product.
+- For training the LDA-based feature extraction model, all reviews of the [accounting software products](https://www.softwareadvice.com/accounting/) have been used.
+- For the illustrative example, we have used all the reviews of [Quickbooks](https://www.softwareadvice.com/accounting/qb-enterprise-acctg-profile/), which is one of the most popular accounting software product.
 - In order to avoid infringement, we do not publish the original software review dataset publicly. For research purpose, you can get the reviews from the website [Software Advice](https://www.softwareadvice.com/) by yourself.
 
 ###  Tools
