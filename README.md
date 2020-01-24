@@ -8,6 +8,8 @@
 
 <p align="center">Figure 1. The overview of our framework</p>
 
+For more details, you can read the [original paper](https://www.sciencedirect.com/science/article/abs/pii/S0950584918302489).
+
 ## Dataset and Tools for The Experiments
 
 ### Dataset
@@ -42,7 +44,6 @@ pages = "30 - 34",
 year = "2019",
 issn = "0950-5849",
 doi = "https://doi.org/10.1016/j.infsof.2018.12.002",
-url = "http://www.sciencedirect.com/science/article/pii/S0950584918302489",
 author = "Jianzhang Zhang and Yinglin Wang and Tian Xie",
 keywords = "Online software reviews, Feature extraction, Topic model, Feature refinement, Release planning",
 }
