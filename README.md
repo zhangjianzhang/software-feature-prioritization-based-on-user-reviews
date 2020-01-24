@@ -6,8 +6,6 @@
 
 <img src="framework.png" width="80%" height="80%" align=center/>
 
-&nbsp;
-
 <center>Figure 1. The overview of our framework</center>
 
 ## Dataset and Tools for The Experiments
@@ -35,7 +33,7 @@
 
 ## Citing This Work
 
-`
+```
 @article{ZHANG201930,
 title = "Software feature refinement prioritization based on online user review mining",
 journal = "Information and Software Technology",
@@ -48,6 +46,6 @@ url = "http://www.sciencedirect.com/science/article/pii/S0950584918302489",
 author = "Jianzhang Zhang and Yinglin Wang and Tian Xie",
 keywords = "Online software reviews, Feature extraction, Topic model, Feature refinement, Release planning",
 }
-`
+```
 
 
