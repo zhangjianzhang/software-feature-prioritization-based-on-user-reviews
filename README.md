@@ -4,9 +4,9 @@
 
 ## Research Framework
 
-<img src="framework.png" width="80%" height="80%" align=center/>
+<div align=center><img src="framework.png" width="80%" height="80%" align=center/></div>
 
-<center>Figure 1. The overview of our framework</center>
+<p align="center">Figure 1. The overview of our framework</p>
 
 ## Dataset and Tools for The Experiments
 
