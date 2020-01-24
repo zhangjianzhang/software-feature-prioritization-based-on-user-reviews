@@ -4,7 +4,7 @@
 
 ## Research Framework
 
-<div align=center><img src="framework.png" width="80%" height="80%" align=center/></div>
+<div align=center><img src="framework.png" width="90%" height="90%" align=center/></div>
 
 <p align="center">Figure 1. The overview of our framework</p>
 
